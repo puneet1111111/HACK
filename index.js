@@ -1,7 +1,7 @@
 
 function validateForm() {
   var x = document.forms["myForm"]["fname"].value;
-  if (x == "rrr" ) {
+  if (x == "PUNEET" ) {
     window.location ="index_imf.html"
 
     alert("Access SucessFully")
